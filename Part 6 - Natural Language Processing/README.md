@@ -1,3 +1,5 @@
+# Natural Language Processing
+
 Welcome to Part 6 - Natural Language Processing!
 
 
@@ -12,3 +14,6 @@ In this part, you will understand and learn how to:
 1. Clean texts to prepare them for the Machine Learning models,
 2. Create a Bag of Words model,
 3. Apply Machine Learning models onto this Bag of Worlds model.
+
+Here we will use NLP for review analysis.
+Consider this link for NLP after scraping data from web. *https://github.com/Alir3z4/html2text*
