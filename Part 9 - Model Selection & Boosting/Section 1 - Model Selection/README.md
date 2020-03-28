@@ -1,4 +1,4 @@
-# Model Selection Techniques
+# Model Selection and Parameter Tuning Techniques
 
 # K-Fold Cross Validation
 
