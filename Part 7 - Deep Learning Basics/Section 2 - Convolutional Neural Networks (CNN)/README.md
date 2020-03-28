@@ -5,7 +5,9 @@ neural networks (SIANN), based on their shared-weights architecture and translat
 They have applications in image and video recognition,
 recommender systems, image classification, medical image analysis, natural language processing, and financial time series.
 
-Here we implement a CNN model for computer vision (we classify images using this model)
+Here we implement a CNN model for computer vision (we classify images using this model).
+
+Get the dataset from *https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P14-Convolutional-Neural-Networks.zip*
 
 # CNN in Python
 We will using keras from tensorflow to implement the CNN model.
