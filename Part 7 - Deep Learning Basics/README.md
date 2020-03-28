@@ -19,5 +19,5 @@ Deep Learning is the most exciting and powerful branch of Machine Learning. Deep
 
 In this part, you will understand and learn how to implement the following Deep Learning models:
 
-Artificial Neural Networks for a Business Problem
-Convolutional Neural Networks for a Computer Vision task
+1. Artificial Neural Networks for a Business Problem
+2. Convolutional Neural Networks for a Computer Vision task
