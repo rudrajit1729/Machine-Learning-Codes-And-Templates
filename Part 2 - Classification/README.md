@@ -16,7 +16,7 @@ In this part, you will understand and learn how to implement the following Machi
 
 4. Kernel SVM
 
-5. Naive Bayes
+5. Naive Bayes Classifier
 
 6. Decision Tree Classification
 
