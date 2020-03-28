@@ -9,4 +9,4 @@ turn has the highest variance possible under the constraint that it is orthogona
 are an uncorrelated orthogonal basis set. PCA is sensitive to the relative scaling of the original variables.
 
 Here we use PCA to reduce dimensions of the dataset so that we can fasten the process of preictions and model training
-and plot graph of the DV and visuaiise the result.
+and plot graph of the DV and visualise the result.
