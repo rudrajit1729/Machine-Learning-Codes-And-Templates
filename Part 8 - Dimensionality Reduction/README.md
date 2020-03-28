@@ -1,5 +1,6 @@
-Welcome to Part 8 - Dimensionality Reduction!
+# Dimensionality Reduction
 
+Welcome to Part 8 - Dimensionality Reduction!
 
 
 Remember in Part 2 - Classification, we worked with datasets composed of only two independent variables. We did for two reasons:
