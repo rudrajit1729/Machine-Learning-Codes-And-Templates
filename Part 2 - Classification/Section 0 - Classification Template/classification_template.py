@@ -30,6 +30,16 @@ y_pred = classifier.predict(X_test)
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
 
+#Applying K-Fold Cross Validation
+from sklearn.model_selection import cross_val_score
+accuracies = cross_val_score(estimator = classifier, X = X_train,
+                             y = y_train, cv = 10, n_jobs = -1)
+accuracy = round(accuracies.mean()*100,2)
+std = round(accuracies.std()*100,2)
+acc_range = [round(accuracy-std,2),round(accuracy+std,2)]
+print("Accuracy : ", accuracy)
+print("Accuracy range : ", acc_range)
+
 # Visualising the Training set results
 from matplotlib.colors import ListedColormap
 X_set, y_set = X_train, y_train
